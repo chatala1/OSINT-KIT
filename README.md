@@ -5,10 +5,12 @@
 **Professionally Curated OSINT Tools from around the web**
 
 ### Contents
+
 **Tool Lists by Type**
 1. Court Search List
 2. Grave Search
 3. Hashtag List
+---
 
 **Curated Tool Collections**
 1. AWESOME OSINT COLLECTION 👓
