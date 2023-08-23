@@ -38,7 +38,7 @@
 24. [Secure Email](/type/Secure%20Email.md) 
 25. [Security YouTube channels](/type/Security%20YouTube%20channels.md) 
 26. [SecurityNews](/type/SecurityNews.md)
-27.  [Vehicle OSINT](/type/Vehicle_OSINT.md) 
+27. [Vehicle OSINT](/type/Vehicle%20%OSINT.md) 
 28. [VPN & Private browsing](/type/VPN%20%26%20Private%20browsing.md) 
 29. [VirtualMachine](/type/VirtualMachine.md) 
 30. [Vulnerabilities](/type/Vulnerabilities.md)
