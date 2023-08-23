@@ -6,6 +6,10 @@
 
 ### Contents
 
+<table style="align-items:top;">
+<tr>
+<td>
+
 | **Tool Lists by Type** |
 |---|
 | 1. [Adversary Intelligence](/type/Adversary%20Intelligence.md) |
@@ -39,8 +43,8 @@
 | 29. [Vulnerabilities](/type/Vulnerabilities.md) |
 | 30. [Website Security](/type/Website%20Security.md) |
 
-
----
+</td>
+<td>
 
 | **Curated Tool Collections** |
 |---|
@@ -50,8 +54,13 @@
 |4. AWESOME OSINT COLLECTION 👓|
 |5. @CYB_DETECTIVE's 🕵🏼‍♂️ OSINT COLLECTION|
 
----
+</td>
+<td>
 
 | **Unsorted Toolkits** |
 |---|
 |1. Miscellaneous|
+
+</td>
+</tr>
+</table>
