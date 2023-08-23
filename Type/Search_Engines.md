@@ -7,6 +7,7 @@
 | Base | https://www.base-search.net/ | Academic |
 | Bing | http://www.bing.com | General |
 | Daum | https://www.daum.net/ | General |
+|DarkSearch|https://darksearch.ai/|DarkWeb Search|
 | DuckDuckGo | https://duckduckgo.com | General |
 | Ecosia | https://www.ecosia.org/ | General |
 | Entireweb | https://www.entireweb.com/ | General |
