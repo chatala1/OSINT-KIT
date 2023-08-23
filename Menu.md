@@ -42,9 +42,16 @@
 
 ---
 
-**Curated Tool Collections**
-1. CIPHER387's TOOLKIT 👾
-2. The CTIA's OPSEC ⚙️ Essentials
-3. The CTIA's Investigation Toolset ⌨️
-4. AWESOME OSINT COLLECTION 👓
-2. @CYB_DETECTIVE's 🕵🏼‍♂️ OSINT COLLECTION
+| **Curated Tool Collections** |
+|---|
+|1. CIPHER387's TOOLKIT 👾|
+|2. The CTIA's OPSEC ⚙️ Essentials|
+|3. The CTIA's Investigation Toolset ⌨️|
+|4. AWESOME OSINT COLLECTION 👓|
+|5. @CYB_DETECTIVE's 🕵🏼‍♂️ OSINT COLLECTION|
+
+---
+
+| **Unsorted Toolkits** |
+|---|
+|1. Miscellaneous|
