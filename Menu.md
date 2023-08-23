@@ -7,7 +7,6 @@
 ### Contents
 
 **Tool Lists by Type**
-Sure, here's the alphabetized list:
 
 1. [Adversary Intelligence](/type/Adversary%20Intelligence.md)
 2. [Anti-Phishing Tools](/type/Anti-Phishing%20Tools.md)
@@ -39,6 +38,7 @@ Sure, here's the alphabetized list:
 28. [VirtualMachine](/type/VirtualMachine.md)
 29. [Vulnerabilities](/type/Vulnerabilities.md)
 30. [Website Security](/type/Website%20Security.md)
+
 
 ---
 
