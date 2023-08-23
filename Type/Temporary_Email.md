@@ -1,0 +1,33 @@
+| Name | URLs | 
+|:---:|:---:|
+| 33mail | https://www.33mail.com |
+| 10minutemail | https://10minutemail.com/10MinuteMail/index.html |
+| BupMail | https://bupmail.com/mailbox |
+| Dispostable | https://www.dispostable.com |
+| E4ward | https://e4ward.com |
+| Email Address Validator | http://www.email-validator.net |
+| EmailHippo | https://tools.verifyemailaddress.io |
+| Emailondeck | https://www.emailondeck.com |
+| Getnada | https://getnada.com |
+| Guerrillamail | https://www.guerrillamail.com |
+| Harakirimail | https://harakirimail.com |
+| Maildrop | https://maildrop.cc |
+| Mailforspam | https://www.mailforspam.com |
+| Mailnesia | http://mailnesia.com |
+| mailinator | https://www.mailinator.com |
+| mintemail | http://www.mintemail.com |
+| MailTester | http://mailtester.com/testmail.php |
+| Mamilnull | https://mailnull.com |
+| Moakt | https://www.moakt.com |
+| Mohmal | https://www.mohmal.com |
+| Mytrashmail | http://www.mytrashmail.com |
+| Shitmail | https://www.shitmail.org |
+| Spamgourmet | https://www.spamgourmet.com |
+| Tempail | https://tempail.com |
+| Temp-mail | https://temp-mail.org |
+| Throwawaymail | https://www.throwawaymail.com |
+| Tempr | https://tempr.email |
+| Trashmail | https://trashmail.com |
+| Vorreotemporal | https://correotemporal.org/ |
+| Whoreadme | http://whoreadme.com/ |
+| Yopmail | http://www.yopmail.com |
