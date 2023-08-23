@@ -6,26 +6,50 @@
 
 ### Contents
 
-<table style="align-items:top;">
-<tr>
-<td>
+| **Tool Lists by Type** | **Curated Collections** | **Unsorted** |
+|---|---|---|
+|1. [Addons](/Type/Addons.md)|1. CIPHER387's TOOLKIT 👾|[Miscellaneous](/Unsorted/Misc.md)|
+|2. [Adversary Intelligence](/Type/Adversary%20Intelligence.md)|2. The CTIA's OPSEC ⚙️ Essentials||
+|3. [Anti-Phishing Tools](/Type/Anti-Phishing%20Tools.md)|3. The CTIA's OPSEC ⚙️ Essentials||
+|4. [Browsers](/Type/Browsers.md)|4. The CTIA's Investigation Toolset ⌨️||
+|5. [CERTs](/Type/CERTs.md)|5. AWESOME OSINT COLLECTION 👓||
+|6. [CTI Feeds](/Type/CTI%20Feeds.md)|6. @CYB_DETECTIVE's 🕵🏼‍♂️ OSINT COLLECTION||
+|7. [Certifications](/Type/Certifications.md)|||
+|8. [Check_Email](/Type/Check_Email.md)|||
+|9. [Chrome Extensions](/Type/Chrome%20Extensions.md)|||
+|10. [Cloud_Storage](/Type/Cloud_Storage.md)|||
+|11. [Collections](/Type/Collections.md)|||
+|12. [Company_Research](/Type/Company_Research.md)|||
+|13. [Conferences](/Type/Conferences.md)|||
+|14. [Court-Search](/Type/Court-Search.md)|||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
-**Tool Lists by Type** 
 
-1. [Addons](/Type/Addons.md)
-2. [Adversary Intelligence](/Type/Adversary%20Intelligence.md)
-3. [Anti-Phishing Tools](/Type/Anti-Phishing%20Tools.md)
-4. [Browsers](/Type/Browsers.md)
-5. [CERTs](/Type/CERTs.md)
-6. [CTI Feeds](/Type/CTI%20Feeds.md)
-7. [Certifications](/Type/Certifications.md)
-8. [Check_Email](/Type/Check_Email.md)
-9. [Chrome Extensions](/Type/Chrome%20Extensions.md)
-10. [Cloud_Storage](/Type/Cloud_Storage.md)
-11. [Collections](/Type/Collections.md)
-12. [Company_Research](/Type/Company_Research.md)
-13. [Conferences](/Type/Conferences.md)
-14. [Court-Search](/Type/Court-Search.md)
+
+
+
 15. [DNS_Recon](/Type/DNS_Recon.md)
 16. [Darknet](/Type/Darknet.md)
 17. [Data breaches](/Type/Data%20breaches.md)
@@ -66,26 +90,5 @@
 52. [Website Security](/Type/Website%20Security.md)
 
 
-
-
-</td>
-<td>
-
-**Curated Tool Collections** 
-
-1. CIPHER387's TOOLKIT 👾
-2. The CTIA's OPSEC ⚙️ Essentials
-3. The CTIA's Investigation Toolset ⌨️
-4. AWESOME OSINT COLLECTION 👓
-5. @CYB_DETECTIVE's 🕵🏼‍♂️ OSINT COLLECTION
-
-</td>
-<td>
-
-**Unsorted Toolkits**
-
-1. [Miscellaneous](/Unsorted/Misc.md)
-
-</td>
 </tr>
 </table>
