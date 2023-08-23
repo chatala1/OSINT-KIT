@@ -5,8 +5,11 @@
 **Professionally Curated OSINT Tools from around the web**
 
 ### Contents
-**HTML FILE FOLDER**
+**Tool Lists by Type**
 1. Court Search List
 2. Grave Search
 3. Hashtag List
-4. <a href="https://cipher387.github.io/osint_stuff_tool_collection/">Cipher387's Curated OSINT Kit</a>
+
+**Curated Tool Collections**
+1. AWESOME OSINT COLLECTION 👓
+2. CIPHER387's TOOLKIT 👾
