@@ -51,7 +51,7 @@
 37. [People](/Type/People.md)
 38. [Phone](/Type/Phone.md)
 39. [Podcasts](/Type/Podcasts.md)
-40. [RansomwareIntel](/Type/RansomwareIntel.md)
+40. [Ransomware Intel](/Type/RansomwareIntel.md)
 41. [Search Engine Tools](/Type/Search%20Engine%20Tools.md)
 42. [Search_Engines](/Type/Search_Engines.md)
 43. [Secure Email](/Type/Secure%20Email.md)
